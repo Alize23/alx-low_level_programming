@@ -1,10 +1,10 @@
 #include <stdio.h>
-/*
+/**
  * main - Entry point
  * Description - Write a C program that prints the size of various
  * types on the computer it is compiled and run on
  *
- * Return: always 0(success)
+ * Return: 0 on (success)
  */
 int main(void)
 {
